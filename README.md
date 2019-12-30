@@ -1,2 +1,2 @@
 # Assignment-2
- use object-oriented design to build on the work you have already completed in Assignment 1.  Namely, now that you have implemented thesimulation of a single ballisticball with a simple physics model, you will leverage your existing code to allow adding multiple balls to the simulation.
+ Use of object-oriented design to build on the work already completed in Assignment 1.  Namely, now the simulation of a single ballistic ball with a simple physics model has been implemented, the existing code will be leveraged to allow adding multiple balls to the simulation.
